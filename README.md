@@ -1,0 +1,2 @@
+# GitLabMap
+针对拿到GitLab账号权限后的GitLab项目信息获取脚本工具
